@@ -10,7 +10,7 @@ depends=(
   'patch'
   'diffutils'
   'ratpoison'
-  'dwb'
+  'qutebrowser'
   'ttf-freefont'
   'xorg-server'
   'xorg-xinit'
@@ -18,7 +18,6 @@ depends=(
   'xorg-server-utils'
   'xf86-video-fbdev'
   'unclutter'
-  'xdotool'
   'fbset'
   'cronie'
 )
